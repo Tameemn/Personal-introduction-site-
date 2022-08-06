@@ -1,0 +1,98 @@
+body { 
+  
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 400%;
+    /* 16px = 100% = 1em */
+}
+
+a {
+    color: whitesmoke ;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color: black;
+}
+
+hr {   
+    border-style:none;
+       border-top-style: dotted;
+       border-color: #8FBDD3;
+       border-width: 10px;
+       width: 10%;
+}   
+  
+.heading {
+    font-family: 'Heebo', sans-serif;
+    font-size: 2.5rem;
+    color: #8FBDD3;
+}
+
+h3 {
+    color: #8FBDD3;
+}
+
+.aspiring {
+    text-decoration: underline;
+}
+
+.passion {
+    font-weight: bold;
+}
+
+.top-container {
+    background-color: #8FBDD3;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #8FBDD3;
+    padding-bottom: 20px;
+}
+
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 350px;
+}
+.bottom-cloud {
+    position: absolute;
+    top: 350px;
+}
+
+.skill-row {
+    width: 90%;
+    margin: 100px auto 100px auto;
+    text-align: left ;
+    line-height: 2;
+}
+
+.profile {
+    width: 50%;
+    margin: 0 auto 50px auto ;
+   
+}
+
+.car {
+    border-radius: 100%;
+    float: left;
+    width: 25%;
+}
+  
+
+.man {
+    border-radius: 100%;
+    width: 20%;
+    float: right;
+    height: 30%;
+    
+}
